@@ -1,0 +1,15 @@
+# EditorConfig is awesome: https://editorconfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# Odin formatter uses tab for indentation and space for alignement
+# Let's align with that
+[*.odin]
+indent_style = tab
+indent_size = 4

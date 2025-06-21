@@ -1,0 +1,6 @@
+[submodule "odin-flake"]
+	path = odin-flake
+	url = git@github.com:freli/odin-flake.git
+[submodule "Odin"]
+	path = Odin
+	url = https://github.com/odin-lang/Odin.git
